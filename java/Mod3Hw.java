@@ -1,6 +1,5 @@
 public class Mod3 {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         multiply(10,100);
         inchToMeters(1);
     }
